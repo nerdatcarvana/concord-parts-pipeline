@@ -1,5 +1,7 @@
 # Parts Request Workflow
 
+**This is a hack. There are much better solutions to this problem. I chose the GAS and G-Apps ecosystem because it is what my department was used to, because I didn't have clear access to proper resources, and because I thought "living off the land" was a good exercise for this project.**
+
 Google Apps Script backing the Parts Department request board. Pickers work a
 single spreadsheet tab; the script handles intake, identity resolution, event
 logging, shift reporting, and archival.
