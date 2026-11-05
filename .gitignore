@@ -1,0 +1,12 @@
+# OAuth token from `clasp login` — NEVER commit
+.clasprc.json
+
+# Local environment config — copy from .clasp.json.example and fill in
+.clasp.json
+
+# Node modules if you ever add a local toolchain
+node_modules/
+
+# OS noise
+.DS_Store
+Thumbs.db
